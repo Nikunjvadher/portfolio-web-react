@@ -8,7 +8,7 @@ import Nav from '../Nav/Nav'
 
 const Header = () => {
   return (
-    <header>
+    <header id='home'>
       <div className="container header__container">
         <h5>Hello i'm</h5>
         <h1> Nikunj Vadher </h1>
