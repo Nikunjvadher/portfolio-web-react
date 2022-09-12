@@ -2,7 +2,7 @@ import React from 'react'
 import me from '../../assests/person2.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
-import {HiFolderArrowDown , HiFolder} from 'react-icons/hi';
+import {HiFolder} from 'react-icons/hi';
 import './About.css'
 
 
